@@ -30,3 +30,7 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
 
 * Fun with TUIO   - Checkout http://nosuch.com/tjt/multimultitouchtouch/index.html for some great software
                   that will turn a wooden frame and a kinect into a TUIO/OSC messages.
+
+
+You can see some projects I've done using these tools on my youtube channel.
+http://www.youtube.com/user/AuralFixationMT/videos
