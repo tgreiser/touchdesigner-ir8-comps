@@ -24,6 +24,12 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
                   In a live system, this would be color mapped onto a Phong, which is then applied to you
                   imported Geometry (model + UV).
 
+* TOPtoDAT        - Stupid touch tricks. This is a nicely formatted DAT for pixel mapping content from a TOP.
+                    Not high performance, intended to be used with LED screens maybe 64x64.
+
+* TOPtoSOP        - Stupid touch tricks. Turn a TOP into a SOP. The only way I know to sort of texture inside
+                  the SOP domain (without rendering). Useful for pixel mapping.
+
 * tuio-25d        - Quick and dirty fix to make the existing tuio component work in "2.5 D" mode
 
 * tuioToggleutton - For my LoveWave/SpacePalette build, I used this for the "buttons". A small tuio panel provides
