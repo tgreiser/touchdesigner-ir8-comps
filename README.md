@@ -9,6 +9,8 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
 
 * RougeFilters    - Filters for the Rouge VJ system, some of them ported from other people's work
 
+* iCONTROLS       - MIDI map for iCON i-Controls, a very nice compact MIDI controller with faders, knobs and buttons.
+
 * ir8Eq           - Very simple and efficient 3 band EQ to CHOP
 
 * ir8TriggerEq    - Tunable 3 band EQ that triggers ON/OFF CHOP states. Refer to the Text DAT for instructions.
@@ -21,6 +23,12 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
                   4 TOP inputs, and transforms and composites them onto each unfolded face in the UV map. 
                   In a live system, this would be color mapped onto a Phong, which is then applied to you
                   imported Geometry (model + UV).
+
+* TOPtoDAT        - Stupid touch tricks. This is a nicely formatted DAT for pixel mapping content from a TOP.
+                    Not high performance, intended to be used with LED screens maybe 64x64.
+
+* TOPtoSOP        - Stupid touch tricks. Turn a TOP into a SOP. The only way I know to sort of texture inside
+                  the SOP domain (without rendering). Useful for pixel mapping.
 
 * tuio-25d        - Quick and dirty fix to make the existing tuio component work in "2.5 D" mode
 
