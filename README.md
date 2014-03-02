@@ -3,7 +3,7 @@ touchdesginer-ir8-comps
 
 Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and video artists.
 
-* flakeD          - A lightsynth that generates snowflake inspired patterns and LSystems
+* flakeD          - *updated* A lightsynth that generates snowflake inspired patterns and LSystems
 
 * RougeComposions - Generators for the Rouge VJ system - see: http://www.maryfranck.net/rouge/
 
