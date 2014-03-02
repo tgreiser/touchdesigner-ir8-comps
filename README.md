@@ -9,6 +9,8 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
 
 * RougeFilters    - Filters for the Rouge VJ system, some of them ported from other people's work
 
+* iCONTROLS       - MIDI map for iCON i-Controls, a very nice compact MIDI controller with faders, knobs and buttons.
+
 * ir8Eq           - Very simple and efficient 3 band EQ to CHOP
 
 * ir8TriggerEq    - Tunable 3 band EQ that triggers ON/OFF CHOP states. Refer to the Text DAT for instructions.
