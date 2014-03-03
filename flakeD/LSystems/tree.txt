@@ -1,0 +1,5 @@
+context_ignore:F+-
+premise:FFFA
+
+A=!"[B]////[B]////B
+B=&FFFA

@@ -1,0 +1,4 @@
+premise:A
+
+A=FhFhFhFhB
+B=A-A
