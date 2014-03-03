@@ -11,7 +11,7 @@ flakedD.35
 * midi - if you have a midimap set up, this uses lots of sliders or knobs. You can assign midi (slider) or audioMidi (knob) to your midimap names at /flaked/settings. This table is kind of the brains of the app.
 
 Requirements:
-TouchDesigner or TouchPlayer - https://www.derivative.ca//088/Downloads/Default.asp
+TouchDesigner or TouchPlayer (Windows only, sorry) - https://www.derivative.ca//088/Downloads/Default.asp
 
 Lsystem Rules:
 Write your own rules, and save a text file in the LSystems directory. Please note, if you have systems that are sigificantly more complex, it is highly recommended to set a condition to limit the max generations on the rules. For example, see travellers.txt
