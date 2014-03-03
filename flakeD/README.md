@@ -22,3 +22,16 @@ On the end, :t<4 is the condition. This says, execute this rule while generation
 Examples of output:
 http://www.youtube.com/watch?v=38LU8TNMFR0
 http://www.youtube.com/watch?v=BOmZIwYflq0
+
+Thanks to other developers who shared their tools and techniques:
+* t3kt - http://t3kt.net/
+* Mary Franck - http://www.maryfranck.net/rouge/
+* Scott Pagano - http://www.neither-field.com/
+* The authors of Mixxa - http://www.derivative.ca/wiki088/index.php?title=Mixxa2013
+* Barakooda Kor - http://www.youtube.com/user/Barakooda3D
+
+License: Copyleft
+Non-commercial use only - intended for educational and entertainment purposes. May contain a few pieces of derivative works under unknown license. Please let me know if you don't want your code used in this way. If you benefit from this tool and want to support my work I accept donations:
+
+Bitcoin:
+1PgpUiZXuCUzfLW2csymySiXEK9rKHUNaN
