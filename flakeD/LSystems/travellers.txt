@@ -1,3 +1,0 @@
-premise:F++F++F
-
-F=F-F++F-F:t<4

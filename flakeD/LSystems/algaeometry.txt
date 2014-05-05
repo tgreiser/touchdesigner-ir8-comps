@@ -1,4 +1,0 @@
-premise:A
-
-A=AFBhF+
-B=A-
