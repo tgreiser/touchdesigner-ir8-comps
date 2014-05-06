@@ -24,6 +24,8 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
                   In a live system, this would be color mapped onto a Phong, which is then applied to you
                   imported Geometry (model + UV).
 
+* SixAxisReflection - Black box component to render content with reflectional and rotational symmetry along 6 axes. Render the hexagon output from the component and then apply SixAxisReflection/material to your Geometry.
+
 * TOPtoDAT        - Stupid touch tricks. This is a nicely formatted DAT for pixel mapping content from a TOP.
                     Not high performance, intended to be used with LED screens maybe 64x64.
 
