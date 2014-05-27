@@ -9,6 +9,8 @@ Components for TouchDesigner and Rogue A/V platforms. Of interest to VJs and vid
 
 * RougeFilters    - Filters for the Rouge VJ system, some of them ported from other people's work
 
+* AutoLevelAdjust - Analyze a 60 second buffer of audio. Scale the audio level to maintain a peak volume of 1.
+
 * iCONTROLS       - MIDI map for iCON i-Controls, a very nice compact MIDI controller with faders, knobs and buttons.
 
 * ir8Eq           - Very simple and efficient 3 band EQ to CHOP
