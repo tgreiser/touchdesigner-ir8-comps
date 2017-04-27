@@ -1,7 +1,5 @@
 Components for TouchDesigner and Rouge A/V platforms. Of interest to VJs and video artists.
 
-* flakeD          - *updated* A lightsynth that generates snowflake inspired patterns and LSystems
-
 * RougeComposions - Generators for the Rouge VJ system - see: http://www.maryfranck.net/rouge/
 
 * RougeFilters    - Filters for the Rouge VJ system, some of them ported from other people's work
